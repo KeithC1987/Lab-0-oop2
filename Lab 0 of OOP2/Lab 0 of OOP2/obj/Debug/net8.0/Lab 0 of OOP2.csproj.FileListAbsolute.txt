@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\bin\Debug\net8.0\Lab 0 of OOP2.exe
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\bin\Debug\net8.0\Lab 0 of OOP2.deps.json
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\bin\Debug\net8.0\Lab 0 of OOP2.runtimeconfig.json
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\bin\Debug\net8.0\Lab 0 of OOP2.dll
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\bin\Debug\net8.0\Lab 0 of OOP2.pdb
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\obj\Debug\net8.0\Lab 0 of OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\obj\Debug\net8.0\Lab 0 of OOP2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\obj\Debug\net8.0\Lab 0 of OOP2.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\obj\Debug\net8.0\Lab 0 of OOP2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\obj\Debug\net8.0\Lab 0 of OOP2.dll
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\obj\Debug\net8.0\refint\Lab 0 of OOP2.dll
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\obj\Debug\net8.0\Lab 0 of OOP2.pdb
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\obj\Debug\net8.0\Lab 0 of OOP2.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Lab 0 of OOP2\Lab 0 of OOP2\obj\Debug\net8.0\ref\Lab 0 of OOP2.dll
